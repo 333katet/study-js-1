@@ -1,5 +1,7 @@
-"use strict";
+'use strict';
 
-// условия
-const num = 2;
-
+// именованая.
+function name(name) {
+    console.log(name);
+}
+name("vlad");
